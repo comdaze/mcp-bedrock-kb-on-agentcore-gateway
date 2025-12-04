@@ -1,4 +1,4 @@
-# Bedrock Knowledge Base MCP Server
+# Bedrock Knowledge Base MCP Server on AgentCore Gateway
 
 基于 AWS Bedrock Knowledge Base 的 MCP (Model Context Protocol) 服务器，用于与 Amazon Quick Suite 集成。
 
