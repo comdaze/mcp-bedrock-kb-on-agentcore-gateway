@@ -1,0 +1,36 @@
+# Environment variables
+.env
+cognito_config.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Lambda deployment
+lambda_proxy.zip
+*.zip
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# AWS
+/tmp/
+*.json.bak
+
+# Logs
+*.log
